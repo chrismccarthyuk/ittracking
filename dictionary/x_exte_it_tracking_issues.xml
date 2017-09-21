@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Issues" max_length="40" name="x_exte_it_tracking_issues" sizeclass="2" type="collection">
+        <element label="Created" max_length="32" name="created" reference="sys_user" type="reference"/>
+        <element label="Due On" max_length="40" name="due_on" type="glide_date"/>
+        <element label="Managed By" max_length="32" name="managed_by" reference="sys_user" type="reference"/>
+        <element choice="1" label="Group" max_length="65" name="project" type="string">
+            <choice>
+                <element label="JDA" sequence="0" value="JDA"/>
+                <element label="JDE" sequence="1" value="JDE"/>
+                <element label="Talend Integration" sequence="2" value="Talend Integration"/>
+                <element label="PMO" sequence="3" value="PMO"/>
+                <element label="SharePoint" sequence="4" value="SharePoint"/>
+                <element label="Web Applications" sequence="5" value="Web Applications"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="User Acceptance" mandatory="true" max_length="40" name="u_acceptace" type="string">
+            <choice>
+                <element label="UA / UT Required" sequence="0" value="1"/>
+                <element label="UA Req / UT Not Required" sequence="1" value="2"/>
+                <element label="UA / UT Not Required" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="u_created_by" type="string"/>
+        <element label="New Journal" max_length="4000" name="u_journal_3" type="journal"/>
+        <element label="Reassign to" max_length="32" name="u_reference_4" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="40" name="u_updated_by" type="string"/>
+    </element>
+</database>

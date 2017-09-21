@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="priority" label="Priority" language="en" table="x_exte_it_tracking_responses">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <help/>
+            <hint/>
+            <label>Priority</label>
+            <language>en</language>
+            <name>x_exte_it_tracking_responses</name>
+            <plural>Priorities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-07-13 09:44:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>b39d107737b3fa40e9f1daa543990ee6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Priority</sys_name>
+            <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+            <sys_update_name>sys_documentation_x_exte_it_tracking_responses_priority_en</sys_update_name>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-07-13 09:44:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

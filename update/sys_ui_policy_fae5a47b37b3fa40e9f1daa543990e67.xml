@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_exte_it_tracking_responses">assignerISEMPTY^EQ<item endquery="false" field="assigner" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>false</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	
+	if(g_form.isNewRecord()){
+		g_form.setDisplay('assigner',false);
+		g_form.setDisplay('sys_created_on',false);
+	}
+	
+}]]></script_true>
+        <set_values/>
+        <short_description>Hide Assigner &amp; Created if new record</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>mccartc</sys_created_by>
+        <sys_created_on>2017-07-13 10:31:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>fae5a47b37b3fa40e9f1daa543990e67</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hide Assigner &amp; Created if new record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+        <sys_update_name>sys_ui_policy_fae5a47b37b3fa40e9f1daa543990e67</sys_update_name>
+        <sys_updated_by>mccartc</sys_updated_by>
+        <sys_updated_on>2017-07-13 10:36:08</sys_updated_on>
+        <table>x_exte_it_tracking_responses</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

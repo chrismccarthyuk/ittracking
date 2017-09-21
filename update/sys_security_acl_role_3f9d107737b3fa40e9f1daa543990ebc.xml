@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mccartc</sys_created_by>
+        <sys_created_on>2017-07-13 09:44:47</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3f9d107737b3fa40e9f1daa543990ebc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_exte_it_tracking_responses.x_exte_it_tracking.responses_user</sys_name>
+        <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+        <sys_security_acl display_value="x_exte_it_tracking_responses">639d107737b3fa40e9f1daa543990eb5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3f9d107737b3fa40e9f1daa543990ebc</sys_update_name>
+        <sys_updated_by>mccartc</sys_updated_by>
+        <sys_updated_on>2017-07-13 09:44:47</sys_updated_on>
+        <sys_user_role display_value="x_exte_it_tracking.responses_user" name="x_exte_it_tracking.responses_user">4b9d583737b3fa40e9f1daa543990e5d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

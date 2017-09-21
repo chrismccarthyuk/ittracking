@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_exte_it_tracking.response.added</event_name>
+        <name>Response Added</name>
+        <order>100</order>
+        <script><![CDATA[(function responseAdded (){
+	alert('hhhhhh');
+	gs.warning('TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT');
+	var issue = new GlideRecord('x_exte_it_tracking_issues');
+	var response = new GlideRecord('x_exte_it_tracking_responses');
+	
+	response.get(event.param1);
+	issue.get(event.param2);
+	
+	issue.work_notes = response.response;
+	gs.addInfoMessage('Done adding work notes '+ response.response);
+	issue.update();
+	
+	
+}());]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>mccartc</sys_created_by>
+        <sys_created_on>2017-07-13 12:54:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>bef145f737f3fa40e9f1daa543990e28</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Response Added</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+        <sys_update_name>sysevent_script_action_bef145f737f3fa40e9f1daa543990e28</sys_update_name>
+        <sys_updated_by>mccartc</sys_updated_by>
+        <sys_updated_on>2017-07-13 13:25:21</sys_updated_on>
+    </sysevent_script_action>
+</record_update>
