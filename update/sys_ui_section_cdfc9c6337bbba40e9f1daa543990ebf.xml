@@ -23,7 +23,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-07-12 15:03:23</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>cdfc9c6337bbba40e9f1daa543990ebf</sys_id>
             <sys_mod_count>2</sys_mod_count>

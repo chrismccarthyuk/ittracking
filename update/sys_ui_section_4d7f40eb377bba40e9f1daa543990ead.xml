@@ -121,7 +121,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-07-12 14:04:24</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>4d7f40eb377bba40e9f1daa543990ead</sys_id>
             <sys_mod_count>0</sys_mod_count>

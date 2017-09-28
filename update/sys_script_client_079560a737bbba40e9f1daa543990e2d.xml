@@ -26,7 +26,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>mccartc</sys_created_by>
         <sys_created_on>2017-07-12 15:45:44</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>079560a737bbba40e9f1daa543990e2d</sys_id>
         <sys_mod_count>3</sys_mod_count>

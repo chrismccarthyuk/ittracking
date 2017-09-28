@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_exte_it_tracking_project_groups" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_exte_it_tracking_project_groups" element="NULL" name="x_exte_it_tracking_project_groups" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3baa89a03729c300e9f1daa543990ea5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-09-28 10:31:18</sys_created_on>
+            <sys_id>3faa89a03729c300e9f1daa543990ea6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-09-28 10:31:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="x_exte_it_tracking_project_groups" element="NULL" name="x_exte_it_tracking_project_groups" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3baa89a03729c300e9f1daa543990ea5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-09-28 10:31:18</sys_created_on>
+            <sys_id>37aa89a03729c300e9f1daa543990ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-09-28 10:31:18</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_exte_it_tracking_project_groups</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-09-28 10:31:18</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>3baa89a03729c300e9f1daa543990ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_exte_it_tracking_project_groups</sys_name>
+            <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+            <sys_update_name>sys_ui_list_x_exte_it_tracking_project_groups_null</sys_update_name>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-09-28 10:31:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

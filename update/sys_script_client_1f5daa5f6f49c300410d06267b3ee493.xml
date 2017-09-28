@@ -37,7 +37,7 @@ ajax.getXML(function () {
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>mccartc</sys_created_by>
         <sys_created_on>2017-09-12 10:20:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>1f5daa5f6f49c300410d06267b3ee493</sys_id>
         <sys_mod_count>10</sys_mod_count>

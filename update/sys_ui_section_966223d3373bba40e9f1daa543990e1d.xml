@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>921ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>3de48dec37e5c300e9f1daa543990e83</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>161ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>b1e48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>due_date</element>
             <position>2</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>961ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>35e48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>managed_by</element>
             <position>3</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>1a1ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>b5e48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>9a1ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>39e48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>priority</element>
             <position>5</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>1e1ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>b9e48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>state</element>
             <position>6</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>9e1ca69f6f49c300410d06267b3ee402</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>3de48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>u_acceptace</element>
             <position>7</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>121ca69f6f49c300410d06267b3ee403</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>bde48dec37e5c300e9f1daa543990e84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>921ca69f6f49c300410d06267b3ee403</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>31e48dec37e5c300e9f1daa543990e85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>short_description</element>
             <position>9</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>161ca69f6f49c300410d06267b3ee403</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>b1e48dec37e5c300e9f1daa543990e85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>description</element>
             <position>10</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 10:08:48</sys_created_on>
-            <sys_id>961ca69f6f49c300410d06267b3ee403</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>35e48dec37e5c300e9f1daa543990e85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 10:08:48</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,41 @@
             <element>project</element>
             <position>11</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 11:41:08</sys_created_on>
-            <sys_id>f23143576f89c300410d06267b3ee45c</sys_id>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>b5e48dec37e5c300e9f1daa543990e85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 11:41:08</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>group_list</element>
+            <position>12</position>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-09-28 10:06:02</sys_created_on>
+            <sys_id>39e48dec37e5c300e9f1daa543990e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-09-28 10:06:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>groups</element>
+            <position>13</position>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-09-28 10:16:32</sys_created_on>
+            <sys_id>2b4781603729c300e9f1daa543990e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">966223d3373bba40e9f1daa543990e1d</sys_ui_section>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-09-28 10:16:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -177,10 +205,10 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-07-12 10:47:36</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>966223d3373bba40e9f1daa543990e1d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>x_exte_it_tracking_issues</sys_name>
             <sys_overrides/>
             <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
@@ -189,7 +217,7 @@
             <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
             <sys_update_name>sys_ui_section_966223d3373bba40e9f1daa543990e1d</sys_update_name>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-07-12 10:47:36</sys_updated_on>
+            <sys_updated_on>2017-09-28 10:16:32</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

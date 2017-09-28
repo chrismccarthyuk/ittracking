@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-09-08 14:09:45</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>70ec7e0e6f854300410d06267b3ee483</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Managed By</sys_name>

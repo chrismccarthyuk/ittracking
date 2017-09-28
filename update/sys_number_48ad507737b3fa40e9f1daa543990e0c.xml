@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>mccartc</sys_created_by>
         <sys_created_on>2017-07-13 09:44:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>48ad507737b3fa40e9f1daa543990e0c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>RES</sys_name>

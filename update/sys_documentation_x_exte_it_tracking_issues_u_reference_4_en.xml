@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-07-12 15:11:23</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>46ce9ca337bbba40e9f1daa543990e11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Reassign to</sys_name>

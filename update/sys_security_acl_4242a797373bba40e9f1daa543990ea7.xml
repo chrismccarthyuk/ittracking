@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>mccartc</sys_created_by>
         <sys_created_on>2017-07-12 10:47:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4242a797373bba40e9f1daa543990ea7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_exte_it_tracking_issues</sys_name>
