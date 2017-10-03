@@ -5,13 +5,13 @@
             <element>u_created_by</element>
             <position>0</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>54e503db6f89c300410d06267b3ee4b5</sys_id>
+            <sys_created_on>2017-10-02 14:54:55</sys_created_on>
+            <sys_id>986d22bd37a18700e9f1daa543990ea3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,97 +19,55 @@
             <element>u_updated_by</element>
             <position>1</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>d8e503db6f89c300410d06267b3ee4b5</sys_id>
+            <sys_created_on>2017-10-02 14:54:55</sys_created_on>
+            <sys_id>1c6d22bd37a18700e9f1daa543990ea3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_by</element>
-            <position>2</position>
-            <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>5ce503db6f89c300410d06267b3ee4b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
-            <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>dce503db6f89c300410d06267b3ee4b5</sys_id>
+            <sys_created_on>2017-10-02 14:54:55</sys_created_on>
+            <sys_id>9c6d22bd37a18700e9f1daa543990ea3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>50e503db6f89c300410d06267b3ee4b6</sys_id>
+            <sys_created_on>2017-10-02 14:54:55</sys_created_on>
+            <sys_id>106d22bd37a18700e9f1daa543990ea4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>d0e503db6f89c300410d06267b3ee4b6</sys_id>
+            <sys_created_on>2017-10-02 14:54:55</sys_created_on>
+            <sys_id>906d22bd37a18700e9f1daa543990ea4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>due_on</element>
-            <position>6</position>
-            <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>54e503db6f89c300410d06267b3ee4b6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
-            <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>closed_at</element>
-            <position>7</position>
-            <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-09-12 12:01:27</sys_created_on>
-            <sys_id>d4e503db6f89c300410d06267b3ee4b6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
-            <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-12 12:01:27</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -124,7 +82,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>4d7f40eb377bba40e9f1daa543990ead</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>Dates</sys_name>
             <sys_overrides/>
             <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
@@ -133,7 +91,7 @@
             <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
             <sys_update_name>sys_ui_section_4d7f40eb377bba40e9f1daa543990ead</sys_update_name>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-07-12 14:04:24</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:55</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

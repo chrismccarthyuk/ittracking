@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sys_user">nameSTARTSWITH^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value=""/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2017-10-03 09:38:37</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>a.bernas</sys_created_by>
+        <sys_created_on>2017-10-03 09:38:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>9a8eae426f290700410d06267b3ee4a0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
+        <sys_update_name>sys_filter_9a8eae426f290700410d06267b3ee4a0</sys_update_name>
+        <sys_updated_by>a.bernas</sys_updated_by>
+        <sys_updated_on>2017-10-03 09:38:37</sys_updated_on>
+        <table>sys_user</table>
+        <title>mobile</title>
+        <user display_value="Adam Bernas">a7ac1b026f2331005fbb89f1be3ee419</user>
+    </sys_filter>
+</record_update>

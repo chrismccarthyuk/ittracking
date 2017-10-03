@@ -17,41 +17,54 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>mccartc</sys_created_by>
-            <sys_created_on>2017-07-12 14:04:24</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_id>497f40eb377bba40e9f1daa543990eb0</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_exte_it_tracking_issues" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">fade0cab377bba40e9f1daa543990e56</sys_ui_form>
-            <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
-            <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-08-24 16:09:12</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-08-24 16:09:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_id>1c68025537384300e9f1daa543990e9c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_exte_it_tracking_issues" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">fade0cab377bba40e9f1daa543990e56</sys_ui_form>
             <sys_ui_section caption="Responses" display_value="Responses" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">5c68025537384300e9f1daa543990e98</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-08-24 16:09:12</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-07-12 14:04:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>497f40eb377bba40e9f1daa543990eb0</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_exte_it_tracking_issues" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">fade0cab377bba40e9f1daa543990e56</sys_ui_form>
+            <sys_ui_section caption="Dates" display_value="Dates" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">4d7f40eb377bba40e9f1daa543990ead</sys_ui_section>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:54:54</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>mccartc</sys_created_by>
+            <sys_created_on>2017-10-02 14:54:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>906d22bd37a18700e9f1daa543990e93</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_exte_it_tracking_issues" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">fade0cab377bba40e9f1daa543990e56</sys_ui_form>
+            <sys_ui_section caption="Closure" display_value="Closure" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">946d22bd37a18700e9f1daa543990e8f</sys_ui_section>
+            <sys_updated_by>mccartc</sys_updated_by>
+            <sys_updated_on>2017-10-02 14:54:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>mccartc</sys_created_by>
             <sys_created_on>2017-07-12 15:03:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_id>4dfc9c6337bbba40e9f1daa543990ec2</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_exte_it_tracking_issues" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">fade0cab377bba40e9f1daa543990e56</sys_ui_form>
             <sys_ui_section caption="History" display_value="History" name="x_exte_it_tracking_issues" sys_domain="global" view="Default view">cdfc9c6337bbba40e9f1daa543990ebf</sys_ui_section>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-08-24 16:09:12</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:54</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_exte_it_tracking_issues</name>
@@ -62,7 +75,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>fade0cab377bba40e9f1daa543990e56</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_name>x_exte_it_tracking_issues</sys_name>
             <sys_overrides/>
             <sys_package display_value="IT Tracking" source="x_exte_it_tracking">2f2ed393373bba40e9f1daa543990e81</sys_package>
@@ -71,7 +84,7 @@
             <sys_scope display_value="IT Tracking">2f2ed393373bba40e9f1daa543990e81</sys_scope>
             <sys_update_name>sys_ui_form_sections_fade0cab377bba40e9f1daa543990e56</sys_update_name>
             <sys_updated_by>mccartc</sys_updated_by>
-            <sys_updated_on>2017-09-28 09:58:04</sys_updated_on>
+            <sys_updated_on>2017-10-02 14:54:54</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

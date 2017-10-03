@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="Issues" max_length="40" name="x_exte_it_tracking_issues" sizeclass="1" type="collection">
-        <element label="Created" max_length="32" name="created" reference="sys_user" type="reference"/>
-        <element label="Due On" max_length="40" name="due_on" type="glide_date"/>
-        <element choice="2" display="true" label="Groups" mandatory="true" max_length="4000" name="groups" reference="sys_user_group" type="glide_list">
+    <element audit="true" extends="task" label="Issues" max_length="40" name="x_exte_it_tracking_issues" sizeclass="5" type="collection">
+        <element choice="1" display="true" dynamic_creation="true" label="Application" max_length="32" name="application" reference="x_exte_it_tracking_it_applications" type="reference">
             <choice/>
         </element>
+        <element label="Created" max_length="32" name="created" reference="sys_user" type="reference"/>
+        <element label="Due On" max_length="40" name="due_on" type="glide_date"/>
         <element label="Managed By" max_length="32" name="managed_by" reference="sys_user" type="reference"/>
-        <element choice="1" dependent="group_list" dependent_on_field="group_list" label="Group" max_length="65" name="project" type="string" use_dependent_field="true">
-            <choice>
-                <element label="JDA" sequence="0" value="JDA"/>
-                <element label="JDE" sequence="1" value="JDE"/>
-                <element label="Talend Integration" sequence="2" value="Talend Integration"/>
-                <element label="PMO" sequence="3" value="PMO"/>
-                <element label="SharePoint" sequence="4" value="SharePoint"/>
-                <element label="Web Applications" sequence="5" value="Web Applications"/>
-            </choice>
-        </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="User Acceptance" mandatory="true" max_length="40" name="u_acceptace" type="string">
             <choice>
                 <element label="UA / UT Required" sequence="0" value="1"/>
